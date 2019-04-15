@@ -25,7 +25,7 @@ Read things here before you start.
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
-- [x] [Times, Clocks and Ordering of Events in Distributed Systems](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf) Lamport's paper, the Quintessential distributed systems primer
+- [x] [Times, Clocks and Ordering of Events in Distributed Systems](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf)
 - [ ] [Session Guarantees for Weakly Consistent Replicated Data](http://www.cs.utexas.edu/~dahlin/Classes/GradOS/papers/SessionGuaranteesPDIS.pdf) a '94 paper that talks about various recommendations for session guarantees for eventually consistent systems, many of this would be standard vocabulary in reading other dist. sys papers, like monotonic reads, read your writes etc.
 
 ### Storage & Databases
