@@ -23,8 +23,10 @@ Read things here before you start.
 - [Distributed Algorithms, Nancy Lynch](https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484) [Amazon Link]
 
 ## Papers
-Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
+Recommended by my Distributed System Professor Lindsey Kuper
 - [x] [Times, Clocks and Ordering of Events in Distributed Systems](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf)
+- [x] [Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail (https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf)
+- [ ] [Distributed Snapshots: Determining Global States of Distributed Systems](http://lamport.azurewebsites.net/pubs/chandy.pdf)
 - [ ] [Session Guarantees for Weakly Consistent Replicated Data](http://www.cs.utexas.edu/~dahlin/Classes/GradOS/papers/SessionGuaranteesPDIS.pdf) a '94 paper that talks about various recommendations for session guarantees for eventually consistent systems, many of this would be standard vocabulary in reading other dist. sys papers, like monotonic reads, read your writes etc.
 
 ### Storage & Databases
@@ -94,8 +96,6 @@ While designing distributed systems are hard enough, testing them is even harder
 
 ## Meta Lists
 Other lists like this one
-- [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
-- [Distributed Systems meta list](https://gist.github.com/macintux/6227368)
 - [List of required readings for Distributed Systems](http://www.andrew.cmu.edu/course/15-749/READINGS/required/) Part of CMU's Engineering Distributed Systems course
 - [The Distributed Reader](http://reiddraper.github.io/distreader/)
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/), A collection of material, mostly papers on Distributed Systems Theory as well as seminal industry papers 
