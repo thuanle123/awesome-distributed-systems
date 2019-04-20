@@ -25,7 +25,7 @@ Read things here before you start.
 ## Papers
 Recommended by my Distributed System Professor Lindsey Kuper
 - [x] [Times, Clocks and Ordering of Events in Distributed Systems](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf)
-- [x] [Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail(https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf)
+- [x] [Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf)
 - [ ] [Distributed Snapshots: Determining Global States of Distributed Systems](http://lamport.azurewebsites.net/pubs/chandy.pdf)
 - [ ] [Session Guarantees for Weakly Consistent Replicated Data](http://www.cs.utexas.edu/~dahlin/Classes/GradOS/papers/SessionGuaranteesPDIS.pdf) a '94 paper that talks about various recommendations for session guarantees for eventually consistent systems, many of this would be standard vocabulary in reading other dist. sys papers, like monotonic reads, read your writes etc.
 
