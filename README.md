@@ -26,7 +26,7 @@ Read things here before you start.
 Recommended by my Distributed System Professor Lindsey Kuper
 - [x] [Times, Clocks and Ordering of Events in Distributed Systems](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf)
 - [x] [Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf)
-- [ ] [Distributed Snapshots: Determining Global States of Distributed Systems](http://lamport.azurewebsites.net/pubs/chandy.pdf)
+- [x] [Distributed Snapshots: Determining Global States of Distributed Systems](http://lamport.azurewebsites.net/pubs/chandy.pdf)
 - [ ] [Session Guarantees for Weakly Consistent Replicated Data](http://www.cs.utexas.edu/~dahlin/Classes/GradOS/papers/SessionGuaranteesPDIS.pdf) a '94 paper that talks about various recommendations for session guarantees for eventually consistent systems, many of this would be standard vocabulary in reading other dist. sys papers, like monotonic reads, read your writes etc.
 
 ### Storage & Databases
@@ -69,7 +69,7 @@ While designing distributed systems are hard enough, testing them is even harder
 
 ## Videos
 - [Distributed Deep Dive](https://blog.ably.io/introducing-distributed-deep-dive-interview-series-by-ably-realtime-42e76d757045) interview series by [Ably Relatime](https://ably.io).
-- [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s) Distributed Systems in One Lesson by Tim Berglund
+- [x] [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s) Distributed Systems in One Lesson by Tim Berglund
 
 ## Courses
 - [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
